@@ -60,16 +60,16 @@
    [[paper](https://arxiv.org/abs/2002.06583v1)]  
    [[code](https://github.com/ArantxaCasanova/ralis)] [![Github stars](https://img.shields.io/github/stars/ArantxaCasanova/ralis.svg?logo=github&label=Stars)](https://github.com/ArantxaCasanova/ralis) [pytorch]
 
-5. 2017-Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation  
+5. 2017 MICCAI-Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation  
    [[paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_46)]
 
-6. 2012-Active learning for semantic segmentation with expected change  
+6. 2012 CVPR-Active learning for semantic segmentation with expected change  
    [[paper](https://ieeexplore.ieee.org/abstract/document/6248050)]
 
-7. Active Learning for Interactive 3D Image Segmentation  
+7. 2011 MICCAI-Active Learning for Interactive 3D Image Segmentation  
    [[paper](https://link.springer.com/chapter/10.1007/978-3-642-23626-6_74)]
 
-8. Hyperspectral Image Segmentation Using a New Bayesian Approach With Active Learning  
+8. 2011 TGRS-Hyperspectral Image Segmentation Using a New Bayesian Approach With Active Learning  
    [[paper](https://ieeexplore.ieee.org/abstract/document/5766734)]
 
 
