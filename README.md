@@ -40,4 +40,36 @@
    [[doc](https://baal.readthedocs.io/en/latest/)]  
 
 
+# Active Learning for Segmentation
+
+1. 2017-Cost-Effective Active Learning for Melanoma Segmentation  
+   [[paper](https://arxiv.org/abs/1711.09168v1)]  
+   [[code](https://github.com/imatge-upc/medical-2017-nipsw)] [![Github stars](https://img.shields.io/github/stars/imatge-upc/medical-2017-nipsw.svg?logo=github&label=Stars)](https://github.com/imatge-upc/medical-2017-nipsw) [keras] official  
+   [[code](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)] [![Github stars](https://img.shields.io/github/stars/marc-gorriz/CEAL-Medical-Image-Segmentation.svg?logo=github&label=Stars)](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) [keras] official
+
+2. 2020 CVPR-ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation  
+   [[paper](https://ieeexplore.ieee.org/document/9156651)]  
+   [[code](https://github.com/nihalsid/ViewAL)] [![Github stars](https://img.shields.io/github/stars/nihalsid/ViewAL.svg?logo=github&label=Stars)](https://github.com/nihalsid/ViewAL) [pytorch]
+
+3. 2019-Deep Active Learning for Axon-Myelin Segmentation on Histology Data  
+   [[paper](https://arxiv.org/abs/1907.05143v1)]  
+   [[code](https://github.com/neuropoly/deep-active-learning)] [![Github stars](https://img.shields.io/github/stars/neuropoly/deep-active-learning.svg?logo=github&label=Stars)](https://github.com/neuropoly/deep-active-learning) [keras] official  
+   [[code](https://github.com/neuropoly/axondeepseg)] [![Github stars](https://img.shields.io/github/stars/neuropoly/axondeepseg.svg?logo=github&label=Stars)](https://github.com/neuropoly/axondeepseg) [keras]
+
+4. 2020 ICLR-Reinforced active learning for image segmentation  
+   [[paper](https://arxiv.org/abs/2002.06583v1)]  
+   [[code](https://github.com/ArantxaCasanova/ralis)] [![Github stars](https://img.shields.io/github/stars/ArantxaCasanova/ralis.svg?logo=github&label=Stars)](https://github.com/ArantxaCasanova/ralis) [pytorch]
+
+5. 2017-Suggestive Annotation: A Deep Active Learning Framework for Biomedical Image Segmentation  
+   [[paper](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_46)]
+
+6. 2012-Active learning for semantic segmentation with expected change  
+   [[paper](https://ieeexplore.ieee.org/abstract/document/6248050)]
+
+7. Active Learning for Interactive 3D Image Segmentation  
+   [[paper](https://link.springer.com/chapter/10.1007/978-3-642-23626-6_74)]
+
+8. Hyperspectral Image Segmentation Using a New Bayesian Approach With Active Learning  
+   [[paper](https://ieeexplore.ieee.org/abstract/document/5766734)]
+
 
