@@ -2,12 +2,12 @@
 # Active Learning Papers & Codes
 -----------
 
-1. 2017-Cost-Effective Active Learning for Deep Image Classification  
+1. 2017-[CEAL]Cost-Effective Active Learning for Deep Image Classification  
    [[paper](https://ieeexplore.ieee.org/document/7508942)]  
    [[code](https://github.com/dhaalves/CEAL_keras)] [![Github stars](https://img.shields.io/github/stars/dhaalves/CEAL_keras.svg?logo=github&label=Stars)](https://github.com/dhaalves/CEAL_keras) [keras]  
    [[code](https://github.com/rafikg/CEAL)] [![Github stars](https://img.shields.io/github/stars/rafikg/CEAL.svg?logo=github&label=Stars)](https://github.com/rafikg/CEAL) [pytorch]
 
-2. 2017-Cost-Effective Active Learning for Melanoma Segmentation  
+2. 2017-[CEAL]Cost-Effective Active Learning for Melanoma Segmentation  
    [[paper](https://arxiv.org/abs/1711.09168v1)]  
    [[code](https://github.com/imatge-upc/medical-2017-nipsw)] [![Github stars](https://img.shields.io/github/stars/imatge-upc/medical-2017-nipsw.svg?logo=github&label=Stars)](https://github.com/imatge-upc/medical-2017-nipsw) [keras] official  
    [[code](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)] [![Github stars](https://img.shields.io/github/stars/marc-gorriz/CEAL-Medical-Image-Segmentation.svg?logo=github&label=Stars)](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) [keras] official
@@ -42,7 +42,7 @@
 
 # Active Learning for Segmentation
 
-1. 2017-Cost-Effective Active Learning for Melanoma Segmentation  
+1. 2017-[CEAL]Cost-Effective Active Learning for Melanoma Segmentation  
    [[paper](https://arxiv.org/abs/1711.09168v1)]  
    [[code](https://github.com/imatge-upc/medical-2017-nipsw)] [![Github stars](https://img.shields.io/github/stars/imatge-upc/medical-2017-nipsw.svg?logo=github&label=Stars)](https://github.com/imatge-upc/medical-2017-nipsw) [keras] official  
    [[code](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation)] [![Github stars](https://img.shields.io/github/stars/marc-gorriz/CEAL-Medical-Image-Segmentation.svg?logo=github&label=Stars)](https://github.com/marc-gorriz/CEAL-Medical-Image-Segmentation) [keras] official
